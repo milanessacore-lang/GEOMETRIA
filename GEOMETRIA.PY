@@ -15,3 +15,4 @@ while True:
             print("vas a hacer un triangulo")
         case 4:
             break
+    #pola
