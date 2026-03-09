@@ -1,5 +1,19 @@
 
+def hacer_circulo():
+    print("haciendo un circulo")
+def hacer_cuadrado():
+    print("haciendo cuadrado")
+def hacer_triangulo():
+    print("haciendo un triangulo")
+def menu():
+    print("menu de figuras geometricas")
+    print("1, circulo")
+    print("2 cuarado")
+    print("3, triangulo")
+    print("4, salir")
+
 while True:
+    menu()
     print("este es el menu para hacer figuras geometricas")
     print("1 circulo")
     print("2 cuadrado")
@@ -15,4 +29,3 @@ while True:
             print("vas a hacer un triangulo")
         case 4:
             break
-    #pola
